@@ -5,6 +5,10 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world!");
 		System.out.println("New commit?");
+		System.out.println("BLAH BLAH BLAH");
+		System.out.println("BLAH BLAH BLAH");
+		System.out.println("BLAH BLAH BLAH");
+	}
 	}
 
 }
